@@ -2,12 +2,7 @@
 
 ## CARLA Simulator
 - The simulation platform provides open digital assets (urban layouts, buildings, vehicles), as shown in Fig1.
-- Download [CARLA](http://carla.org/) (CARLA_0.9.5 version)
 - Running CARLA
-```
-./CarlaUE4.sh (Linux)
-CarlaUE4.exe (Windows)
-```
 
 <p align="center">
   <img width="500" src="/README/carla.jpg">
@@ -53,26 +48,6 @@ python video.py
   Figure 3: Video Detection
 </p>
 
-```
-python ADS_object_detection.py
-```
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=P13EDUTOlkg" target="_blank">
-    <img src="http://img.youtube.com/vi/P13EDUTOlkg/0.jpg" alt="Description" width="480" height="360" border="0" />
-  </a>
-</p>
-<p align="center">
-  Figure 4: Object Detection for CARLA Driving Simulator by using YOLOv4
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=3gIghBNTxxQ" target="_blank">
-    <img src="http://img.youtube.com/vi/3gIghBNTxxQ/0.jpg" alt="Description" width="480" height="360" border="0" />
-  </a>
-</p>
-<p align="center">
-  Figure 5: Object Detection for CARLA Driving Simulator by using YOLOv4 (path trajectory)
-</p>
 
 ## Reference
 https://github.com/AlexeyAB/darknet  
