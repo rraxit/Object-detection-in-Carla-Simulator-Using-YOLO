@@ -40,9 +40,7 @@ python predict.py
 python video.py
 ```
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Rf1Fd8reW7w" target="_blank">
-    <img src="/README/video.gif" alt="Description" width="850" height="320" border="0" />
-  </a>
+  <img src="/README/video.gif" alt="Description" width="850" height="320" border="0" />
 </p>
 <p align="center">
   Figure 3: Video Detection
