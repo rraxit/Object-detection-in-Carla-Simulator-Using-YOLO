@@ -1,4 +1,4 @@
-# Object-Detection-for-CARLA-Driving-Simulator-by-using-YOLOv4
+# Object-Detection-in-CARLA-Driving-Simulator-by-using-YOLO
 
 ## CARLA Simulator
 - The simulation platform provides open digital assets (urban layouts, buildings, vehicles), as shown in Fig1.
@@ -40,7 +40,7 @@ python predict.py
 python video.py
 ```
 <p align="center">
-  <video src="/README/video.webm" alt="Description" width="850" height="320" border="0" />
+  <video src="/README/video.webm" />
 </p>
 <p align="center">
   Figure 3: Video Detection
