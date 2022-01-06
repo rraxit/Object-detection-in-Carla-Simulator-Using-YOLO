@@ -40,7 +40,7 @@ python predict.py
 python video.py
 ```
 <p align="center">
-  <video src="/README/video.webm" />
+  <img src="/README/video.gif" />
 </p>
 <p align="center">
   Figure 3: Video Detection
